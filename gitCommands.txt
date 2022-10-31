@@ -1,4 +1,6 @@
 git init;
 git status;
     * Untracked;
-    
+    * Commit Stage;
+git add [nome arquivo];
+git commit -m "[sua mensagem]"
