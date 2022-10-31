@@ -13,3 +13,5 @@ git commit -m "[sua mensagem]"
 git log
 ----------------------------
 git remote add origin [url github]
+----------------------------
+git push origin master
